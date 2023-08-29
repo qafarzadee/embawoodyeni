@@ -18,7 +18,7 @@ header {
   background: rgb(255, 255, 255);
 }
 .header_left {
-  width: 580px;
+  width: 540px;
   display: flex;
   justify-content: start;
   align-items: center;
@@ -29,7 +29,7 @@ header {
   align-items: center;
 }
 .header_right {
-  width: 580px;
+  width: 6200px;
   gap: 20px;
   display: flex;
   justify-content: end;
@@ -86,7 +86,7 @@ header {
 #input {
   height: 30px;
   border-radius: 5px;
-  width: 300px;
+  width: 260px;
   text-decoration: none;
   border: 0px;
   padding: 5px;
@@ -173,6 +173,13 @@ header a ion-icon {
   justify-content: center;
   align-items: center;
   margin: 0px auto;
+}
+.bashlig h2{
+  width: 100%;
+  margin: 10px auto;
+  display: flex;
+  justify-content: center;
+
 }
 .section2 {
   width: 1280px;
